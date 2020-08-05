@@ -1,0 +1,5 @@
+﻿  StudentInfoController.c
+H:\StudentManager\StudentInfoController.c(120,7): warning C4013: “gets”未定义；假设外部返回 int
+H:\StudentManager\StudentInfoController.c(146,25): warning C4013: “getch”未定义；假设外部返回 int
+H:\StudentManager\StudentInfoController.c(225,31): warning C4133: “函数”: 从“char [30]”到“STU_INFO *”的类型不兼容
+  StudentManager.vcxproj -> H:\StudentManager\Debug\StudentManager.exe

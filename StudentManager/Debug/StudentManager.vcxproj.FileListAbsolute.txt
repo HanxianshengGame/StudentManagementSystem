@@ -1,0 +1,2 @@
+H:\StudentManager\Debug\StudentManager.exe
+H:\StudentManager\Debug\StudentManager.pdb
